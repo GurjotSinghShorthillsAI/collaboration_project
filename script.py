@@ -1,3 +1,3 @@
-# script.py
-   def greet():
-       return "Hello from Modified Person A"
+def greet():
+  return "Hello from Person A and Person B"
+
